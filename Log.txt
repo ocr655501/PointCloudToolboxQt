@@ -1,8 +1,0 @@
-Generic Warning: In E:\VTK_Env\VTK-8.2.0\GUISupport\Qt\QVTKWidget.cxx, line 83
-QVTKWidget was deprecated for VTK 8.1 and will be removed in a future version.
-
-
-Generic Warning: In E:\VTK_Env\VTK-8.2.0\GUISupport\Qt\QVTKPaintEngine.cxx, line 25
-QVTKPaintEngine was deprecated for VTK 8.1 and will be removed in a future version.
-
-
