@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QMainWindow">
+        <file>myIcon.ico</file>
+        <file>aboutIcon.png</file>
+        <file>DeveloperIcon.jpg</file>
+    </qresource>
+</RCC>
