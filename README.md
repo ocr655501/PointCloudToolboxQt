@@ -1,8 +1,8 @@
-##Point Cloud Toolbox 
+## Point Cloud Toolbox
 点云工具箱（点云处理程序）
 
 based on Qt 5.12.10, Point Cloud Library 1.12 with an additional Vtk 8.2.
-##这是什么？
+## 这是什么？
 在业余时间完成的，算是图像处理工具的一个程序样品。对部分点云数据能进行一些初步处理的操作。
 
 - 有用户界面，操作较为简便。
@@ -19,7 +19,7 @@ based on Qt 5.12.10, Point Cloud Library 1.12 with an additional Vtk 8.2.
 **建议运行分辨率：1920 * 1080**
 
 
-##Issues (BUG)
+## Issues (BUG)
 - Surface 设备会出现 DPI 错误
 
 其他设备应该影响不大。这个问题可以使用系统兼容性选项修复。
@@ -33,7 +33,7 @@ based on Qt 5.12.10, Point Cloud Library 1.12 with an additional Vtk 8.2.
 - 中文路径无法读取
 
 可以解决。但是由于个人时间紧迫，没有采取解决方案...
-##先决条件
+## 先决条件
 以 Windows 系统为例：
 - 下载并安装最新版本的 Point Cloud Library
 
@@ -71,12 +71,12 @@ C:\Program Files\OpenNI2\Redist
 
 在完成这些操作之后，接下来的步骤分为两个不同分支：
 
-####我想直接使用程序
+#### 我想直接使用程序
 
 - 从  [Releases](https://github.com/ocr655501/PointCloudToolboxQt/releases)  中下载软件压缩包。
 - 解压到自己喜欢的位置，然后把之前下载的 VTK 库一起解压进去。这就 OK 了 
 
-####我想自己编译、研究和学习
+#### 我想自己编译、研究和学习
 
 - 使用 Git 克隆项目到计算机
 
@@ -160,7 +160,7 @@ _SILENCE_FPOS_SEEKPOS_DEPRECATION_WARNING
 
 - 生成。这就 OK 了
 
-##声明
+## 声明
 
 本程序有借助部分论坛的学习笔记编写，算是一组学习笔记的整合版本。欢迎研究代码学习点云处理和深度计算。
 
@@ -168,7 +168,7 @@ _SILENCE_FPOS_SEEKPOS_DEPRECATION_WARNING
 
 **不要让我看到有人卖这款软件，这是对所有学习笔记作者的极大不尊重。**
 
-##国内下载地址
+## 国内下载地址
 众所周知，githubcontents 近几年在国内屡遭黑名单屏蔽，如果你下载不了 Releases 的程序实例，可以试试这里。
 
 [下载整个项目 / 压缩包](https://wwb.lanzoub.com/icEY405n2bsf)
